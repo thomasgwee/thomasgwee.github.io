@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Thomas
 
-I’m a fresh IT graduate specializing in frontend development. I enjoy creating web applications, solving challenges, and building responsive, user-friendly interfaces.
+I’m a fresh IT graduate from TARUMT KL specializing in frontend development. I enjoy creating web applications, solving challenges, and building responsive, user-friendly interfaces.
 
 ---
 
@@ -10,6 +10,10 @@ I’m a fresh IT graduate specializing in frontend development. I enjoy creating
 - **Frontend:** Vue.js, React.js, TypeScript  
 - **Web:** HTML, CSS, JavaScript  
 - **Tools:** Git, GitHub
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" alt="Vue.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
 
 ---
 
