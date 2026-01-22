@@ -20,6 +20,7 @@ Here are some projects I’ve worked on:
 ### 🌦️ Weather App
 A responsive weather app that retrieves live data from a weather API.  
 **Tech used:** Vue.js, JavaScript, CSS
+🔗 [View on GitHub](https://github.com/thomasgwee/ChatRT)
 
 ### 💻 Portfolio Website
 This portfolio site! Built to showcase my projects and skills.  
