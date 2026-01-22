@@ -1,3 +1,11 @@
+<style>
+  body {
+    background-color: #f7f7f7;
+    color: #333;
+    font-family: Arial, sans-serif;
+  }
+</style
+
 # 👋 Hello, I’m Thomas
 
 I’m a fresh IT graduate specializing in frontend development. I enjoy creating web applications, solving challenges, and building responsive, user-friendly interfaces.
