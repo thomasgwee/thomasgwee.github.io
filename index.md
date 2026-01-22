@@ -11,7 +11,7 @@ I’m a fresh IT graduate from TARUMT KL specializing in frontend development. I
 - **Web:** HTML, CSS, JavaScript  
 - **Tools:** Git, GitHub
 
-  <img src="https://skillicons.dev/icons?i=python,php,html,css,js,vue,react,ts,git&theme=light" alt="Tech Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,ts,git,python,php&theme=light" alt="Tech Skill Icons" />
 
 
 ---
