@@ -1,11 +1,11 @@
-# Hello, I’m [Your Name]
+# Hello, I’m Thomas
 I’m a fresh IT graduate and here are my skills:
 
 ## About Me
 I love building web apps and solving problems.
 
 ## Skills
-- Python
+- Vuejs, Reacjs, Typescript Frontend Development
 - HTML / CSS / JavaScript
 - Git / GitHub
 
@@ -14,4 +14,4 @@ I love building web apps and solving problems.
 - [Portfolio Website](link)
 
 ## Contact
-Connect with me: LinkedIn / Email
+Connect with me: [LinkedIn](https://www.linkedin.com/in/thomasgwee/) / gweejuneping@gmail.lcom
