@@ -17,14 +17,37 @@ I’m a fresh IT graduate specializing in frontend development. I enjoy creating
 
 Here are some projects I’ve worked on:
 
-### 🌦️ Weather App
-A responsive weather app that retrieves live data from a weather API.  
+### 🚀 Full-Stack Management System
+
+A unified management system built with **Vue.js 3 (Composition API)** and **TypeScript**, designed for both web and native platforms.
+
+🔧 **Tech Stack:** Vue.js 3, TypeScript, HBuilderX, Git
+
+📌 **Key Highlights:**
+- **Full-stack integration:** Developed a robust frontend architecture with Vue.js 3 using Composition API and strict TypeScript types for scalability and maintainability.
+- **Cross-platform deployment:** Utilized the **HBuilderX ecosystem** to compile and optimize assets for both web and native deployment targets — ensuring performance and consistent user experience.
+- **Team collaboration:** Worked collaboratively in a team using **Git** with feature branches, pull requests, and workflows involving merging and rebasing based on conventions.
+
+### 📱 Unified System & Mobile Application
+
+**Overview:**  
+Designed and developed a complete system and companion mobile application, with a focus on frontend development and API integration.
+
+🔧 **Tech Stack:** HTML, CSS, JavaScript, PHP, React.js
+
+📌 **Key Contributions:**
+- Designed frontend interfaces and backend page structures using **PHP**.
+- Focused primarily on **frontend development**:
+  - Built **reusable UI components** using React.js.
+  - Integrated with APIs for full **CRUD operations** (Create, Read, Update, Delete).
+  - Collaborated closely with backend developers to ensure data structures and API responses aligned with frontend needs.
+- Refactored older components to improve **code readability**, **maintainability**, and alignment with modern React best practices.
+
+### 💬ChatRT
+A responsive chatapp develop during my university assignment.  
 **Tech used:** Vue.js, JavaScript, CSS
 🔗 [View on GitHub](https://github.com/thomasgwee/ChatRT)
 
-### 💻 Portfolio Website
-This portfolio site! Built to showcase my projects and skills.  
-**Tech used:** GitHub Pages, Markdown / HTML
 
 ---
 
