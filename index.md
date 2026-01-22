@@ -32,7 +32,7 @@ This portfolio site! Built to showcase my projects and skills.
 Let’s connect!
 
 - **LinkedIn:** [linkedin.com/in/thomasgwee](https://www.linkedin.com/in/thomasgwee/)  
-- **Email:** gweejuneping@gmail.com
+- **Email:** [gweejuneping@gmail.com](mailto:gweejuneping@gmail.com)
 
 ---
 
