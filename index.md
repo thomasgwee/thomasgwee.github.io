@@ -39,7 +39,7 @@ Designed and developed a complete system and companion mobile application, with 
 🔧 **Tech Stack:** HTML, CSS, JavaScript, PHP, React.js
 
 📌 **Key Contributions:**
-- Designed frontend interfaces and backend page structures using **PHP**.
+- Designed frontend interfaces and backend page structures using **ReactJs**.
 - Focused primarily on **frontend development**:
   - Built **reusable UI components** using React.js.
   - Integrated with APIs for full **CRUD operations** (Create, Read, Update, Delete).
