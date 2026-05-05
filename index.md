@@ -57,6 +57,11 @@ A high-performance, open-source admin dashboard template designed for rapid deve
 🔗 [View on GitHub (Frontend)](https://github.com/thomasgwee/gfast-ui)
 🔗 [View on GitHub (Backend)](https://github.com/thomasgwee/gfast)
 
+### 💬DentalAdmin
+A comprehensive Management Information System (MIS) designed for dental clinics. It provides a centralized dashboard to manage patient records, appointment scheduling, and clinical workflows, streamlining the administrative side of healthcare. 
+**Tech used:** Vue.js, JavaScript, CSS
+🔗 [View on GitHub](https://github.com/thomasgwee/dental-admin)
+
 ---
 
 ## 📫 Contact
