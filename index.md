@@ -12,7 +12,7 @@ I’m a Junior IT graduate from TARUMT KL specializing in frontend development. 
 - **Web:** HTML, CSS, JavaScript  
 - **Tools:** Git, GitHub, Docker, DBeaver
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,ts,git,python,php,java&theme=light" alt="Tech Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,ts,git,python,php,java,golang,docker&theme=light" alt="Tech Skill Icons" />
 
 
 ---
