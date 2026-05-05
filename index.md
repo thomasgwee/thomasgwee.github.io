@@ -1,17 +1,18 @@
 # 👋 Hello, I’m Thomas
 
-I’m a fresh IT graduate from TARUMT KL specializing in frontend development. I enjoy creating web applications, solving challenges, and building responsive, user-friendly interfaces.
+I’m a Junior IT graduate from TARUMT KL specializing in frontend development. I enjoy creating web applications, solving challenges, and building responsive, user-friendly interfaces.
 
 ---
 
 ## 💼 Skills
 
 ### 🔧 Technical Skills
-- **Frontend:** Vue.js, React.js, TypeScript  
+- **Frontend:** Vue.js, React.js, TypeScript
+- **Backend:** Java, Spring Boot, GoLang 
 - **Web:** HTML, CSS, JavaScript  
-- **Tools:** Git, GitHub
+- **Tools:** Git, GitHub, Docker, DBeaver
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,ts,git,python,php&theme=light" alt="Tech Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,ts,git,python,php,java&theme=light" alt="Tech Skill Icons" />
 
 
 ---
