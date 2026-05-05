@@ -54,8 +54,8 @@ A responsive chatapp develop during my university assignment.
 ### 💬Gfast Template
 A high-performance, open-source admin dashboard template designed for rapid development. It provides a sleek, responsive interface for backend management systems, ensuring a consistent user experience across mobile, tablet, and desktop devices.
 **Tech used:** Vue.js, JavaScript, CSS
-🔗 [View on GitHub](https://github.com/thomasgwee/gfast-ui)
-🔗 [View on GitHub](https://github.com/thomasgwee/gfast)
+🔗 [View on GitHub (Frontend)](https://github.com/thomasgwee/gfast-ui)
+🔗 [View on GitHub (Backend)](https://github.com/thomasgwee/gfast)
 
 ---
 
